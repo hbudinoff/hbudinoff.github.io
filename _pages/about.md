@@ -15,4 +15,4 @@ I completed my undergraduate degree in mechanical engineering at the University 
 
 Outside of work, I enjoy running, biking, traveling, and eating. 
 
-My CV can be found [here](/CV/).
+My CV can be found [here](hbudinoff.github.io/cv/).
