@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Hannah Budinoff"
   avatar           : "IMG_0037copy.jpg"
-  bio              : "Hannah Budinoff is a graduate student at the Univeristy of California, Berkeley"
+  bio              : "Hannah Budinoff is a graduate student in the Department of Mechanical Engineering at the Univeristy of California, Berkeley"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UluizroAAAAJ&hl=en"
