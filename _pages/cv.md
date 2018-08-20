@@ -17,24 +17,21 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017-Current: Research Assistant in Computer Aided Design and Manufacturing Lab (CADML) 
+  * University of California, Berkeley
+  * Supervisor: Professor Sara McMains
+  
+* Fall 2016-Spring 2017: Lecturer 
+  * Mechanical Engineering Department, Northern Arizona University
+  * Duties included: Teaching undergraduate classes related to design (see teaching tab for more details)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014-Spring 2016: Research Assistant in Laboratory for Manufacturing And Sustainability
+  * University of California, Berkeley
+  * Supervisor: Professor David Dornfeld
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Updates coming soon
 
 Publications
 ======
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Updates coming soon
