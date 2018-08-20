@@ -1,5 +1,5 @@
 ---
-title: "Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course,"
+title: "Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course"
 collection: publications
 permalink: /publication/2016-10-16-aptitude-effort-and-achievement
 excerpt: 'This is a paper I presented at the 72nd ASEE EDGD MidYear Conference in Montego Bay, Jamaica.'
