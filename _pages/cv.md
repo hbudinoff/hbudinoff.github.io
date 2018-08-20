@@ -23,7 +23,7 @@ Work experience
   
 * Fall 2016-Spring 2017: Lecturer 
   * Mechanical Engineering Department, Northern Arizona University
-  * Duties included: Teaching undergraduate classes related to design (see teaching tab for more details)
+  * Duties included: Teaching undergraduate classes related to design
 
 * Fall 2014-Spring 2016: Research Assistant in Laboratory for Manufacturing And Sustainability
   * University of California, Berkeley
