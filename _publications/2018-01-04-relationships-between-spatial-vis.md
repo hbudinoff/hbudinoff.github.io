@@ -2,7 +2,7 @@
 title: "Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course"
 collection: publications
 permalink: /publication/2018-01-04-relationships-between-spatial-vis
-excerpt: 'This is a paper I presented at the 72nd ASEE EDGD MidYear Conference in Montego Bay, Jamaica.'
+excerpt: 
 date: 2018-01-04
 venue: 'Proceedings of the 72nd American Society for Engineering Education Engineering Design Graphics Division MidYear Conference'
 paperurl: 'https://sites.asee.org/edgd/wp-content/uploads/sites/22/2018/07/42-H-Bud.pdf'
