@@ -25,7 +25,7 @@ Work experience
   * Mechanical Engineering Department, Northern Arizona University
   * Duties included: Teaching undergraduate classes related to design
 
-* Fall 2014-Spring 2016: Research Assistant in Laboratory for Manufacturing And Sustainability
+* Fall 2014-Spring 2016: Research Assistant in Laboratory for Manufacturing and Sustainability
   * University of California, Berkeley
   * Supervisor: Professor David Dornfeld
   
