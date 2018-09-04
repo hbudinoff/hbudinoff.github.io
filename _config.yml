@@ -266,7 +266,9 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jemoji  
+plugins:
+  - jekyll-seo-tag
 
 
 # Archives
