@@ -10,6 +10,6 @@ citation: 'H. Budinoff, R. Bhinge, and D. Dornfeld. &quot;A material-general ene
 ---
 Abstract: Increasing awareness of energy consumption and its environmental impacts has prompted a need to better predict the energy consumption of various industrial processes, including manufacturing. Modeling can allow manufacturers to optimize the efficiency of their manufacturing processes. Highly accurate, data-driven models of energy consumption of CNC milling have been developed but these models are generated from experimental data and are not generally applicable. If any conditions are varied beyond the experimental parameter ranges, a data-driven model faces challenges in maintaining its prediction accuracy. In this work, two models based on the non-cutting power demand of the CNC machine and the specific cutting energy of the workpiece material are analyzed. These models are then used to predict milling energy consumption of several experimental parts. Both models predicted the total energy consumption of the experimental parts with an average relative total error of less than 3%, which is comparable to datadriven models. Unlike most models, the proposed models presented here can be applied to most workpiece materials.
 
-[Download preprint here](http://academicpages.github.io/files/paper1.pdf)
+[Download preprint here](https://academicpages.github.io/files/paper1.pdf)
 
 
