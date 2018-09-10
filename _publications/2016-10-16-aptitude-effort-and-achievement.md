@@ -8,6 +8,7 @@ venue: 'Proceedings of the 71st American Society for Engineering Education Engin
 paperurl: 'https://sites.asee.org/edgd/wp-content/uploads/sites/22/2017/12/Part14-Budinoff-and-McMains.pdf'
 citation: 'H. Budinoff and S. McMains. &quot;Aptitude, Effort, and Achievement in an Introductory Engineering Design Graphics Class,&quot; in <i>Proceedings of the 71st American Society for Engineering Education Engineering Design Graphics Division MidYear Conference, Nashua, NH, October 16-18, 2016</i>.' 
 ---
+[Download here] hannahbudinoff.com/files/EDGD_2017_Aptitude_Effort.pdf
 
 Abstract: We investigate the relationships between spatial ability, time spent on homework, lecture
 clicker participation, and grades in an introductory engineering graphics class. Out of mental
