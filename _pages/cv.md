@@ -21,7 +21,7 @@ Education
 Research Interests
 ======
 * Engineering design
-* Additie Manufacturing
+* Additive Manufacturing
 * Design for Manufacturing
 * Engineering education
   
