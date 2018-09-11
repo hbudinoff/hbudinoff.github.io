@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 (expected)
-  * <b>Advisor:<\b> Professor Sara McMains
+  * <b>Advisor:</b> Professor Sara McMains
 * M.S. in Mechanical Engineering, University of California, Berkeley, 2015
-  * <b>Advisor:<\b> Professor David Dornfeld
-  * <b>Master's project report:<\b> Predicting Energy Usage During Milling Based on Workpiece Properties
+  * <b>Advisor:</b> Professor David Dornfeld
+  * <b>Master's project report:</b> Predicting Energy Usage During Milling Based on Workpiece Properties
 * B.S. in Mechanical Engineering, University of Arizona, 2013
   
 Research Interests
