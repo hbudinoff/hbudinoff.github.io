@@ -11,27 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering, University of Arizona, 2013
-* M.S. in Mechanical Engineering, University of California, Berkeley, 2015
-* Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 (expected)
-
+* <b>Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 (expected)<\b>
+  * <b>Advisor:<\b> Professor Sara McMains
+* <b>M.S. in Mechanical Engineering, University of California, Berkeley, 2015<\b>
+  * <b>Advisor:<\b> Professor David Dornfeld
+  * <b>Master's project report:<\b> Predicting Energy Usage During Milling Based on Workpiece Properties
+* <b>B.S. in Mechanical Engineering, University of Arizona, 2013<\b>
+  
+Research Interests
+======
+* <b>Engineering design<\b>
+* <b>Additie Manufacturing<\b>
+* <b>Design for Manufacturing<\b>
+* <b>Engineering education<\b>
+  
 Work experience
 ======
-* Fall 2017-Current: Research Assistant in Computer Aided Design and Manufacturing Lab (CADML) 
+* Research Assistant in the Computer Aided Design and Manufacturing Lab, UC Berkeley (Fall 2017-Current)
   * University of California, Berkeley
-  * Supervisor: Professor Sara McMains
   
-* Fall 2016-Spring 2017: Lecturer 
-  * Mechanical Engineering Department, Northern Arizona University
+* Lecturer, Mechanical Engineering Department, Northern Arizona University (Fall 2016-Spring 2017)
   * Duties included: Teaching undergraduate classes related to design
 
-* Fall 2014-Spring 2016: Research Assistant in Laboratory for Manufacturing and Sustainability
-  * University of California, Berkeley
-  * Supervisor: Professor David Dornfeld
-  
-Skills
-======
-* Updates coming soon
+* Research Assistant in the Laboratory for Manufacturing and Sustainability, UC Berkeley (Fall 2014-Spring 2016)
+
+* Design Engineer I, Honeywell Aerospace (May 2013-August 2014)
+
 
 Publications
 ======
@@ -53,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Updates coming soon
+* Reviewer: CAD, ASEE Annual Conference proceedings
