@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 (expected)<\b>
+* Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 (expected)
   * <b>Advisor:<\b> Professor Sara McMains
-* <b>M.S. in Mechanical Engineering, University of California, Berkeley, 2015<\b>
+* M.S. in Mechanical Engineering, University of California, Berkeley, 2015
   * <b>Advisor:<\b> Professor David Dornfeld
   * <b>Master's project report:<\b> Predicting Energy Usage During Milling Based on Workpiece Properties
-* <b>B.S. in Mechanical Engineering, University of Arizona, 2013<\b>
+* B.S. in Mechanical Engineering, University of Arizona, 2013
   
 Research Interests
 ======
-* <b>Engineering design<\b>
-* <b>Additie Manufacturing<\b>
-* <b>Design for Manufacturing<\b>
-* <b>Engineering education<\b>
+* Engineering design
+* Additie Manufacturing
+* Design for Manufacturing
+* Engineering education
   
 Work experience
 ======
