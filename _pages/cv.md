@@ -15,7 +15,7 @@ Education
   * <b>Advisor:</b> Professor Sara McMains
 * <b>M.S. in Mechanical Engineering, University of California, Berkeley, 2015</b>
   * <b>Advisor:</b> Professor David Dornfeld
-  * <b>Master's project report:</b> Predicting Energy Usage During Milling Based on Workpiece Properties</b>
+  * <b>Master's project report:</b> Predicting Energy Usage During Milling Based on Workpiece Properties [link](http://hbudinoff.github.io/files/Budinoff_Masters_Thesis.pdf)
 * <b>B.S. in Mechanical Engineering, University of Arizona, 2013</b>
   
 Research Interests
