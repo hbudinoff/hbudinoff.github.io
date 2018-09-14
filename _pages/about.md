@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hannah Budinoff"
-excerpt: "About me"
+title: "About me"
+excerpt: "About me - Hannah Budinoff"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,4 +13,4 @@ Hi! I am currently a PhD student studying mechanical engineering at the Universi
 
 I completed my undergraduate degree in mechanical engineering at the University of Arizona, in Tucson, with minors in mathematics and French. Before I started graduate school, I worked as a design engineer at Honeywell Aerospace in Phoenix, AZ, where I worked on projects relating to rotordynamics and structural analysis in the Mechanical Systems, Structures and Dynamics group. I also had the opportunity to work as a lecturer at Northern Arizona University for a year (2016-2017 school year), teaching undergraduate mechanical engineering classes related to design. 
 
-My CV can be found [here](hbudinoff.github.io/cv/).
+My CV can be found [here](hannahbudinoff.com/cv/).
