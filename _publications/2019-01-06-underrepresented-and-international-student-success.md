@@ -1,11 +1,12 @@
 
 ---
-title: "Underrepresented and International Student Success and Confidence in a Small Lab-based CAD Class"
+title: "Underrepresented and International Student Success and Confidence in a Small, Lab-based CAD Class"
 collection: publications
 permalink: /publication/2019-01-06-underrepresented-and-international-student-success
 excerpt: 
 date: 2019-01-06
 venue: 'Proceedings of the 73rd American Society for Engineering Education Engineering Design Graphics Division MidYear Conference'
+paperurl: 'https://hannahbudinoff.com/files/EDGD_2019_Underrepresent_International.pdf'
 citation: 'H. Budinoff and S. McMains. &quot;Underrepresented and International Student Success and Confidence in a Small, Lab-based CAD Class,&quot; in <i>Proceedings of the 73rd American Society for Engineering Education Engineering Design Graphics Division MidYear Conference, Berkeley, CA, January 6-8, 2019</i>.' 
 ---
 
