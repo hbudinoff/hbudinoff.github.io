@@ -1,6 +1,6 @@
 
 ---
-title: "Underrepresented and International Student Success and Confidence in a Small, Lab-based CAD Class"
+title: "Underrepresented and International Student Success and Confidence in a Small Lab-based CAD Class"
 collection: publications
 permalink: /publication/2016-10-16-aptitude-effort-and-achievement
 excerpt: 
