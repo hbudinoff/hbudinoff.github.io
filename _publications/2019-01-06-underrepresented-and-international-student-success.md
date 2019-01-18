@@ -1,4 +1,3 @@
-
 ---
 title: "Underrepresented and International Student Success and Confidence in a Small, Lab-based CAD Class"
 collection: publications
