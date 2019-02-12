@@ -58,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer: CAD, ASEE Annual Conference proceedings
+* Reviewer: CAD, Procedia CIRP, ASEE Annual Conference proceedings
