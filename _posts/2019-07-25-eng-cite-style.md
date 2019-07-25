@@ -15,5 +15,5 @@ American Society of Mechanical Engineers
 =====
 I found a useful, recently implemented version of the ASME citation style that works with Latex. I don't think any of the ASME conference or journal pages currently link to this, so I thought I'd repost. I've found a bug or two but it seems to work well. Thank you to the developer, John H. Lienhard. 
 
-[ASME Journal Latex template file for journal articles](https://ctan.org/pkg/asmejour)
-[ASME Journal Latex template file for conference articles](https://ctan.org/pkg/asmeconf)
+ * [ASME Journal Latex template file for journal articles](https://ctan.org/pkg/asmejour)
+ * [ASME Journal Latex template file for conference articles](https://ctan.org/pkg/asmeconf)
