@@ -2,7 +2,7 @@
 title: "Effects of Gender, Effort, and Spatial Visualization Abilities in an Engineering
 Graphics Class"
 collection: publications
-permalink: /publication/06_15_2019_effects_gender_effort
+permalink: /publication/06-15-2019-effects-gender-effort
 excerpt: 
 date: 2019-06-15
 venue: 'Proceedings of the 2019 ASEE Annual Conference and Exposition'
