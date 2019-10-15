@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-06-11-prediction-and-visualization
 excerpt: 
 date: 2018-06-11
-venue: 'Proceedings of the 15th CIRP Conference on Computer Aided Tolerancing (CIRP CAT)'
+venue: 'Procedia CIRP'
 paperurl: https://www.sciencedirect.com/science/article/pii/S2212827118304967
 citation: 'H. Budinoff and S. McMains, 2018, &quot;Prediction and visualization of achievable orientation tolerances for additive manufacturing.&quot; Procedia CIRP, <b>75</b>, pp. 81-86.'
 ---
