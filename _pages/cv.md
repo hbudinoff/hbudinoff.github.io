@@ -20,9 +20,10 @@ Education
   
 Research Interests
 ======
-* Engineering design
+* Engineering design process
 * Additive manufacturing
-* Design for manufacturing
+* Design for additive manufacturing
+* Design for manufacturing 
 * Engineering education
   
 Work experience
@@ -58,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer: CAD, Procedia CIRP, ASEE Annual Conference proceedings
+* Reviewer: CAD, International Journal of Engineering Education, Procedia CIRP, ASEE Annual Conference proceedings
