@@ -3,13 +3,13 @@ title: "Relationships between Spatial Visualization Ability and Student Outcomes
 collection: publications
 permalink: /publication/2018-01-04-relationships-between-spatial-vis
 excerpt: 
-date: 2018-01-04
-venue: 'Proceedings of the 72nd American Society for Engineering Education Engineering Design Graphics Division MidYear Conference'
-paperurl: 'https://sites.asee.org/edgd/wp-content/uploads/sites/22/2018/07/42-H-Bud.pdf'
-citation: 'H. Budinoff and S. McMains. &quot;Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course,&quot; in <i>Proceedings of the 72nd American Society for Engineering Education Engineering Design Graphics Division MidYear Conference, Montego Bay, Jamaica, January 4-6, 2018</i>.' 
+date: 2018-10-01
+venue: 'Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course'
+paperurl: 'http://www.edgj.org/index.php/EDGJ/article/view/678'
+citation: 'H. Budinoff and S. McMains. &quot;Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course,&quot; <i>The Engineering Design Graphics Journal</i>. 82(2).' 
 ---
 
-[Download here](http://hannahbudinoff.com/files/EDGD_2018_Relationships_between_spatial.pdf)
+[Download preprint here](http://hannahbudinoff.com/files/EDGJ_2018_Budinoff_McMains_preprint.pdf)
 
 Abstract: The impact of spatial visualization ability on student outcomes in a freshman-level, 3D
 modeling class is explored by analyzing connections between students’ spatial ability pre- and
