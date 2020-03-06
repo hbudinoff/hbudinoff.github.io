@@ -7,7 +7,7 @@ excerpt:
 date: 2019-06-15
 paperurl: https://peer.asee.org/effects-of-gender-effort-and-spatial-visualization-abilities-in-an-engineering-graphics-class.pdf
 venue: 'Proceedings of the 2019 ASEE Annual Conference and Exposition'
-paperurl: 'https://peer.asee.org/effects-of-gender-effort-and-spatial-visualization-abilities-in-an-engineering-graphics-class'
+paperurl: 'http://hannahbudinoff.com/files/Budinoff_Ford_McMains_2019_ASEE_preprint.pdf'
 citation: 'H. Budinoff, A. Ford, and S. McMains. &quot;Effects of Gender, Effort, and Spatial Visualization Abilities in an Engineering
 Graphics Class&quot; in <i>Proceedings of the 2019 ASEE Annual Conference and Exposition, Tampa, FL, USA, June 15-19, 2019</i>.'
 ---
