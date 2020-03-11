@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 (expected)</b>
+* <b>Ph.D in Mechanical Engineering, University of California, Berkeley, 2019 </b>
   * <b>Advisor:</b> Professor Sara McMains
 * <b>M.S. in Mechanical Engineering, University of California, Berkeley, 2015</b>
   * <b>Advisor:</b> Professor David Dornfeld
@@ -28,7 +28,7 @@ Research Interests
   
 Work experience
 ======
-* <b>Research Assistant in the Computer Aided Design and Manufacturing Lab, UC Berkeley (Fall 2017-Current)</b>
+* <b>Research Assistant in the Computer Aided Design and Manufacturing Lab, UC Berkeley (Fall 2017-Summer 2019)</b>
   * University of California, Berkeley
   
 * <b>Lecturer, Mechanical Engineering Department, Northern Arizona University (Fall 2016-Spring 2017)</b>
