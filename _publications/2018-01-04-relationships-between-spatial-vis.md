@@ -3,7 +3,7 @@ title: "Relationships between Spatial Visualization Ability and Student Outcomes
 collection: publications
 permalink: /publication/2018-01-04-relationships-between-spatial-vis
 excerpt: 
-date: 2018-10-01
+date: 2018-01-04
 venue: 'The Engineering Design Graphics Journal'
 paperurl: 'http://www.edgj.org/index.php/EDGJ/article/view/678'
 citation: 'H. Budinoff and S. McMains. &quot;Relationships between Spatial Visualization Ability and Student Outcomes in a 3D Modeling Course,&quot; <i>The Engineering Design Graphics Journal</i>. 82(2).' 
