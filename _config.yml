@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hannah Budinoff"
 title_separator          : "-"
 name                     : &name "Hannah Budinoff"
-description              : &description "Personal website of Hannah Budinoff, graduate student at University of California, Berkeley"
+description              : &description "Personal website of Hannah Budinoff"
 url                      : https://hannahbudinoff.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hbudinoff.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Hannah Budinoff"
   avatar           : "IMG_0037copy.jpg"
-  bio              : "Hannah Budinoff is a graduate student in the Department of Mechanical Engineering at the Univeristy of California, Berkeley"
+  bio              : "Hannah Budinoff is a recent PhD graduate from the Department of Mechanical Engineering at the Univeristy of California, Berkeley"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UluizroAAAAJ&hl=en"
